@@ -61,7 +61,7 @@
                     templateUrl: "app/game/game.html"
                 }
             }
-        })
+        }) 
         .state('app.standings', {
             url: "/standings",
             views: {
